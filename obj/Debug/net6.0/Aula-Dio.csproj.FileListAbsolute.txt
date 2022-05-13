@@ -1,0 +1,15 @@
+C:\Users\Daniele\Aula-Dio\bin\Debug\net6.0\Aula-Dio.exe
+C:\Users\Daniele\Aula-Dio\bin\Debug\net6.0\Aula-Dio.deps.json
+C:\Users\Daniele\Aula-Dio\bin\Debug\net6.0\Aula-Dio.runtimeconfig.json
+C:\Users\Daniele\Aula-Dio\bin\Debug\net6.0\Aula-Dio.dll
+C:\Users\Daniele\Aula-Dio\bin\Debug\net6.0\Aula-Dio.pdb
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\Aula-Dio.csproj.AssemblyReference.cache
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\Aula-Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\Aula-Dio.AssemblyInfoInputs.cache
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\Aula-Dio.AssemblyInfo.cs
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\Aula-Dio.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\Aula-Dio.dll
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\refint\Aula-Dio.dll
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\Aula-Dio.pdb
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\Aula-Dio.genruntimeconfig.cache
+C:\Users\Daniele\Aula-Dio\obj\Debug\net6.0\ref\Aula-Dio.dll
